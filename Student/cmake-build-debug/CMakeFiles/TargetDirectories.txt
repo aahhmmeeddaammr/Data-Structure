@@ -1,0 +1,3 @@
+C:/Users/Ahmed/Downloads/Student-2/Student/cmake-build-debug/CMakeFiles/Student.dir
+C:/Users/Ahmed/Downloads/Student-2/Student/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed/Downloads/Student-2/Student/cmake-build-debug/CMakeFiles/rebuild_cache.dir
